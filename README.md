@@ -136,7 +136,7 @@ If you require further assistance contact the support team on telegram
 ***
 
 ***Step 2***
-* Send EXACLY **100,000** Digital Denar to a receive address within your wallet.
+* Send EXACTLY **10,000** Digital Denar to a receive address within your wallet.
 ***
 
 ***Step 3***
