@@ -132,7 +132,7 @@ If you require further assistance contact the support team on telegram
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Digital Denar wallet [here](https://Digital Denar.to/)
+* Download and install the Digital Denar wallet [here](https://github.com/DigitalDenar/DigitalDenar/releases)
 ***
 
 ***Step 2***
@@ -191,9 +191,9 @@ Click "File Save"
 ***step 4***
 * Check the status of your masternode within the VPS by using the command below:
 
-`Digital Denar-cli masternode status`
+`digitaldenar-cli masternode status`
 
-`Digital Denar-cli getinfo`
+`digitaldenar-cli getinfo`
 
 *You should see ***masternode succesfuly started***
 
